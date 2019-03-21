@@ -21,3 +21,8 @@ These are example of the input image and resulted image after filtering.
   <img  src="Box_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
+
+<p align="center">
+  <img  src="Box_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
+</p>
+
