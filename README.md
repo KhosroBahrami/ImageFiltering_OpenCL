@@ -1,6 +1,6 @@
 # Image Filtering using OpenCL
 
-...
+This is the implementation of 4 image filters, including Box Filter, Gaussian Filter, Laplacian Filter and Sharpenning Filter using OpenCL and C++.
 
 
 
