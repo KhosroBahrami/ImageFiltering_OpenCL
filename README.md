@@ -17,4 +17,7 @@ These are example of the input image and resulted image after filtering.
 
 
 
+<p align="center">
+  <img  src="figs/siamesefc.jpg" alt="alt text" width="70%" height="70%" title="Siamese network for object tracking">
+</p>
 
