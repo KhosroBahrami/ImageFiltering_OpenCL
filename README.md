@@ -1,8 +1,6 @@
 # Image Filtering using OpenCL
 
-This is the implementation of 4 image filters, including Box Filter, Gaussian Filter, Laplacian Filter and Sharpenning Filter using OpenCL on GPU.
-I also implemented these filters using C++ and OpenCV to measure the speed up taht can be achieved using GPU over CPU.
-The follwing table show the results. It can be seen from the results that on average we can get 3.3 faster processing on GPU.
+This is the implementation of 4 image filters, including Box Filter, Gaussian Filter, Laplacian Filter and Sharpenning Filter using OpenCL on GPU. I also implemented these filters using C++ and OpenCV to measure the speed up that can be achieved using GPU over CPU. The following table shows the results. It can be seen from the results that on average we can get 3.3 faster processing on GPU.
 The experiments have been done on GTX970.
 
 
