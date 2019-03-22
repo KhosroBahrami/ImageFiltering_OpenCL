@@ -13,7 +13,7 @@ The experiments have been done on GTX970.
 | Laplacian Filter  | 3.55 | 0.92 | 800*600 |
 | Sharpening Filter | 3.18 | 0.92 | 800*600 |
 
-These are example of the input image and resulted image after filtering.
+These are example of the input image and resulted image after filtering:
 
 
 Original image:
