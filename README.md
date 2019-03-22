@@ -16,13 +16,28 @@ The experiments have been done on GTX970.
 These are example of the input image and resulted image after filtering.
 
 
-
+Original image:
 <p align="center">
   <img  src="Box_Filter/input.jpg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
-
+Box filtered image:
 <p align="center">
   <img  src="Box_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
+</p>
+
+Gaussian filtered image:
+<p align="center">
+  <img  src="Gaussian_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
+</p>
+
+Laplacian filtered image:
+<p align="center">
+  <img  src="Laplacian_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
+</p>
+
+Shapenning filtered image:
+<p align="center">
+  <img  src="Sharpenning_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
