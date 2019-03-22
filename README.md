@@ -21,23 +21,23 @@ Original image:
   <img  src="Box_Filter/input.jpg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
-Box filtered image:
+Filtered image by Box filtering:
 <p align="center">
   <img  src="Box_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
-Gaussian filtered image:
+Filtered image by Gaussian filtering:
 <p align="center">
   <img  src="Gaussian_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
-Laplacian filtered image:
+Filtered image by Laplacian filtering:
 <p align="center">
   <img  src="Laplacian_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
-Shapenning filtered image:
+Filtered image by Sharpening filtering:
 <p align="center">
-  <img  src="Sharpenning_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
+  <img  src="Sharpening_Filter/output_gpu.jpeg" alt="alt text" width="70%" height="70%" title="Box filtering using GPU">
 </p>
 
